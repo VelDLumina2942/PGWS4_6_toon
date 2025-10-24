@@ -3,8 +3,9 @@
 
 # 結果画像
 
-![結果](result.png)
-- 工夫した点：xxx
+![結果](result0.png)
+- 工夫した点：RampShaderではTriangleWaveでグラデーションの仕方を変化せ、ToonShaderではAddとEllipseを追加してグラデーションに楕円を加えて見た目がどう変化するのか試した。
+  また、HalftoneShaderではsinだけでなくcosやtangentとそれぞれをmultiplyで合わせてみたものなどを試した。画像のものはsinとtangentを合わせたものである
 
 # 進め方
 
